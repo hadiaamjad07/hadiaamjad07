@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Hadia Amjad 👋
 
-<!--
-**hadiaamjad07/hadiaamjad07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Artificial Intelligence Student at PAF-IAST
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Artificial Intelligence student passionate about Machine Learning, Deep Learning and emerging AI technologies. I enjoy learning new skills and working on projects that solve real-world problems.
+
+* 🌱 I’m currently learning Python, Machine Learning, and Cloud Computing
+* 🤖 Interested in Artificial Intelligence and Deep Learning
+* 👯 I’m looking to collaborate on AI and Data Science projects
+* 💬 Ask me about Python, AI, and Machine Learning
+* 📫 How to reach me: [b23f0609ai147@paf-iast.edu.pk](mailto:b23f0609ai147@paf-iast.edu.pk)
+* 📍 Haripur, Pakistan
+
+## Skills
+
+* Python
+* Machine Learning
+* Deep Learning
+* Data Science
+* Git & GitHub
+
+## Goals
+
+* Build AI-based projects
+* Contribute to open-source projects
+* Improve my programming and research skills
+
+⭐ Thanks for visiting my profile!
+
